@@ -7,3 +7,4 @@ pass= "mY5up38$ecre7s"
 token= "s7erce$83pu5YmY5up38$ecre7s"
 
 discover ghmtest_secret ?
+token= "leak@10.42aM"
